@@ -1,0 +1,15 @@
+/Users/mariahionaki/Documents/gbc#hw1/Задача15/bin/Debug/net6.0/Задача15
+/Users/mariahionaki/Documents/gbc#hw1/Задача15/bin/Debug/net6.0/Задача15.deps.json
+/Users/mariahionaki/Documents/gbc#hw1/Задача15/bin/Debug/net6.0/Задача15.runtimeconfig.json
+/Users/mariahionaki/Documents/gbc#hw1/Задача15/bin/Debug/net6.0/Задача15.dll
+/Users/mariahionaki/Documents/gbc#hw1/Задача15/bin/Debug/net6.0/Задача15.pdb
+/Users/mariahionaki/Documents/gbc#hw1/Задача15/obj/Debug/net6.0/Задача15.csproj.AssemblyReference.cache
+/Users/mariahionaki/Documents/gbc#hw1/Задача15/obj/Debug/net6.0/Задача15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariahionaki/Documents/gbc#hw1/Задача15/obj/Debug/net6.0/Задача15.AssemblyInfoInputs.cache
+/Users/mariahionaki/Documents/gbc#hw1/Задача15/obj/Debug/net6.0/Задача15.AssemblyInfo.cs
+/Users/mariahionaki/Documents/gbc#hw1/Задача15/obj/Debug/net6.0/Задача15.csproj.CoreCompileInputs.cache
+/Users/mariahionaki/Documents/gbc#hw1/Задача15/obj/Debug/net6.0/Задача15.dll
+/Users/mariahionaki/Documents/gbc#hw1/Задача15/obj/Debug/net6.0/refint/Задача15.dll
+/Users/mariahionaki/Documents/gbc#hw1/Задача15/obj/Debug/net6.0/Задача15.pdb
+/Users/mariahionaki/Documents/gbc#hw1/Задача15/obj/Debug/net6.0/Задача15.genruntimeconfig.cache
+/Users/mariahionaki/Documents/gbc#hw1/Задача15/obj/Debug/net6.0/ref/Задача15.dll
