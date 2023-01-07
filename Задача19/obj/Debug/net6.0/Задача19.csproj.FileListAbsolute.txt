@@ -1,0 +1,15 @@
+/Users/mariahionaki/Documents/gbc#hw1/Задача19/bin/Debug/net6.0/Задача19
+/Users/mariahionaki/Documents/gbc#hw1/Задача19/bin/Debug/net6.0/Задача19.deps.json
+/Users/mariahionaki/Documents/gbc#hw1/Задача19/bin/Debug/net6.0/Задача19.runtimeconfig.json
+/Users/mariahionaki/Documents/gbc#hw1/Задача19/bin/Debug/net6.0/Задача19.dll
+/Users/mariahionaki/Documents/gbc#hw1/Задача19/bin/Debug/net6.0/Задача19.pdb
+/Users/mariahionaki/Documents/gbc#hw1/Задача19/obj/Debug/net6.0/Задача19.csproj.AssemblyReference.cache
+/Users/mariahionaki/Documents/gbc#hw1/Задача19/obj/Debug/net6.0/Задача19.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariahionaki/Documents/gbc#hw1/Задача19/obj/Debug/net6.0/Задача19.AssemblyInfoInputs.cache
+/Users/mariahionaki/Documents/gbc#hw1/Задача19/obj/Debug/net6.0/Задача19.AssemblyInfo.cs
+/Users/mariahionaki/Documents/gbc#hw1/Задача19/obj/Debug/net6.0/Задача19.csproj.CoreCompileInputs.cache
+/Users/mariahionaki/Documents/gbc#hw1/Задача19/obj/Debug/net6.0/Задача19.dll
+/Users/mariahionaki/Documents/gbc#hw1/Задача19/obj/Debug/net6.0/refint/Задача19.dll
+/Users/mariahionaki/Documents/gbc#hw1/Задача19/obj/Debug/net6.0/Задача19.pdb
+/Users/mariahionaki/Documents/gbc#hw1/Задача19/obj/Debug/net6.0/Задача19.genruntimeconfig.cache
+/Users/mariahionaki/Documents/gbc#hw1/Задача19/obj/Debug/net6.0/ref/Задача19.dll
