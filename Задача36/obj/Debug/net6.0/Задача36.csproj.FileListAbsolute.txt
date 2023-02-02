@@ -1,0 +1,15 @@
+/Users/mariahionaki/Documents/gbc#hw1/Задача36/bin/Debug/net6.0/Задача36
+/Users/mariahionaki/Documents/gbc#hw1/Задача36/bin/Debug/net6.0/Задача36.deps.json
+/Users/mariahionaki/Documents/gbc#hw1/Задача36/bin/Debug/net6.0/Задача36.runtimeconfig.json
+/Users/mariahionaki/Documents/gbc#hw1/Задача36/bin/Debug/net6.0/Задача36.dll
+/Users/mariahionaki/Documents/gbc#hw1/Задача36/bin/Debug/net6.0/Задача36.pdb
+/Users/mariahionaki/Documents/gbc#hw1/Задача36/obj/Debug/net6.0/Задача36.csproj.AssemblyReference.cache
+/Users/mariahionaki/Documents/gbc#hw1/Задача36/obj/Debug/net6.0/Задача36.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariahionaki/Documents/gbc#hw1/Задача36/obj/Debug/net6.0/Задача36.AssemblyInfoInputs.cache
+/Users/mariahionaki/Documents/gbc#hw1/Задача36/obj/Debug/net6.0/Задача36.AssemblyInfo.cs
+/Users/mariahionaki/Documents/gbc#hw1/Задача36/obj/Debug/net6.0/Задача36.csproj.CoreCompileInputs.cache
+/Users/mariahionaki/Documents/gbc#hw1/Задача36/obj/Debug/net6.0/Задача36.dll
+/Users/mariahionaki/Documents/gbc#hw1/Задача36/obj/Debug/net6.0/refint/Задача36.dll
+/Users/mariahionaki/Documents/gbc#hw1/Задача36/obj/Debug/net6.0/Задача36.pdb
+/Users/mariahionaki/Documents/gbc#hw1/Задача36/obj/Debug/net6.0/Задача36.genruntimeconfig.cache
+/Users/mariahionaki/Documents/gbc#hw1/Задача36/obj/Debug/net6.0/ref/Задача36.dll
